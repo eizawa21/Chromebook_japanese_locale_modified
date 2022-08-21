@@ -43,7 +43,7 @@ Chromebookの[設定]→[Linux開発環境のセットアップ]を選択。<br>
 <br> 
 ターミナルが立ち上がったら以下を実行する。<br> 
 <br> 
-$ git clone　https://github.com/eizawa21/Chromebook_japanese_locale_modified.git
+$ git clone　https://github.com/eizawa21/Chromebook_japanese_locale_modified.git<br>
 <br> 
 <br> 
 すると以下のディレクトリが出来ているので確認。<br> 
