@@ -1,4 +1,4 @@
-# Chromebookのリナックス環境の日本語入力自動化スクリプト(Dabian11 Bulls_eye)の環境変数の設定対応
+# ChromebookのLinux環境の日本語入力自動化スクリプト(Dabian11 Bulls_eye)の環境変数の設定対応
 <br> 
 <br> 
 Chromebook用のリナックス環境がDabian11に変更され、今まで日本語入力用に環境変数を書いていた場所を変えたほうがいいので対応。<br> 
